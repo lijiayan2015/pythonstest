@@ -1,0 +1,4 @@
+
+各种排序后期补上。。。
+def bubble_sort(srcList):
+
